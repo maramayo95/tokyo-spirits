@@ -1,0 +1,58 @@
+$blane-color: #161616;
+$hStyles: (
+    h1Style: 600%,
+    h2Style: 300%,
+    h3Style: 150%,
+);
+
+@each $name , $style in $hStyles {
+    .#{$name}{
+        font-size: $style;
+        text-align:center;
+        justify-content: center;
+        color: rgba(255, 255, 255, 0.877);
+        font-weight: bold;
+    }
+} 
+
+.h3Contacto {
+    text-align : center;
+    margin:20px;
+    justify-content: center;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+
+.h3Section {
+    color:orangered;
+    margin: 30px;
+    text-align:center;
+    justify-content:center;
+    font-size: 600%;
+    letter-spacing: 5px;
+    font-style: italic;
+    
+   
+}
+
+
+/*h1{
+    text-align:center;
+    justify-content: center;
+    
+
+}
+
+h2 {
+    text-align:center;
+    justify-content: center;
+}
+
+
+h3 {
+    text-align: center; 
+    justify-content: center;
+}
+
+*/
