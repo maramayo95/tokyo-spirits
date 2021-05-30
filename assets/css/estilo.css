@@ -7754,28 +7754,28 @@ h3 {
   z-index: -1; }
 
 .banner-1 {
-  background-image: url(/img/banner/banner-1.jpg); }
+  background-image: url("./img/banner/banner-1.jpg"); }
 
 .banner-2 {
-  background-image: url(/img/banner/banner-2.jpg); }
+  background-image: url("./img/banner/banner-2.jpg"); }
 
 .banner-3 {
-  background-image: url(/img/banner/banner-3.jpg); }
+  background-image: url("./img/banner/banner-3.jpg"); }
 
 .banner-4 {
-  background-image: url(/img/banner/banner-4.jpeg); }
+  background-image: url("./img/banner/banner-4.jpeg"); }
 
 .banner-5 {
-  background-image: url(/img/banner/banner-5111.jpg); }
+  background-image: url("./img/banner/banner-5111.jpg"); }
 
 .banner-6 {
-  background-image: url(/img/banner/banner-6.jpg); }
+  background-image: url("./img/banner/banner-6.jpg"); }
 
 .banner-7 {
-  background-image: url(/img/banner/banner-7.jpg); }
+  background-image: url("./img/banner/banner-7.jpg"); }
 
 .banner-8 {
-  background-image: url(/img/banner/banner-8.jpg); }
+  background-image: url("./img/banner/banner-8.jpg"); }
 
 /*
 .banner-deportes {
