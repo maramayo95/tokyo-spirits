@@ -8005,7 +8005,7 @@ footer {
     padding: 5px;
     margin: 0 10px; }
 
-.footer_seccion--copyright {
+.footerGrid_seccion--copyright {
   display: flex;
   flex-direction: column;
   align-items: center;
