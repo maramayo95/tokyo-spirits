@@ -7537,6 +7537,25 @@ h3 {
 }
 
 */
+.background-index-1 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../../img/background/background-index4.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  width: auto;
+  height: auto; }
+
+.p-info {
+  color: #fff;
+  text-align: center;
+  margin: 100%  0% 100% 50%; }
+
+.info-imagen {
+  width: 20%; }
+
 .banner-1 {
   display: flex;
   flex-direction: column;
