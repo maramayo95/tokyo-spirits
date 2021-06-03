@@ -8092,12 +8092,17 @@ p {
 .dk-footer-box-info .footer-social-link h3, .dk-footer-box-info .footer-social-link .h3 {
   color: #fff;
   font-size: 24px;
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+  margin-top: 10px;
+  text-align: center; }
 
 .dk-footer-box-info .footer-social-link ul {
   list-style-type: none;
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  display: inline-flex;
+  justify-content: center;
+  width: 100%; }
 
 .dk-footer-box-info .footer-social-link li {
   display: inline-block; }
@@ -8120,13 +8125,13 @@ p {
   background-color: #55ACEE; }
 
 .dk-footer-box-info .footer-social-link a i.fa-google-plus {
-  background-color: #DD4B39; }
+  background-color: #56df16; }
 
-.dk-footer-box-info .footer-social-link a i.fa-linkedin {
-  background-color: #0976B4; }
+.dk-footer-box-info .footer-social-link a i.fa-whatsapp {
+  background-color: #00bb2d; }
 
 .dk-footer-box-info .footer-social-link a i.fa-instagram {
-  background-color: #B7242A; }
+  background-color: #DD2A7D; }
 
 .footer-social-link a {
   text-decoration: none; }
@@ -8316,6 +8321,9 @@ p {
   cursor: pointer;
   background: #FA6742;
   border-color: #FA6742; }
+
+a {
+  text-decoration: none; }
 
 /*
 .footerGrid {
