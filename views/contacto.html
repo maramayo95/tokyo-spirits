@@ -64,37 +64,79 @@
     </header>
 
 <main>
-  <form class="contacto-form">
-    <h3 class="h3Contacto">Envíanos un correo electronico y te responderemos en breve!</h3>
-    <ul class="info-form">
-    <li class="li-form"> Horario de Atención: L-V 8-20hs</li>
-    <li class="li-form"> Teléfono: 1234567890</li>
-    <li class="li-form"> Email: tokyospirits@gmail.com</li>
-  </ul>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
 
-
-
-  <div class="background-form">
+  <div class="row" id="contatti">
+  <div class="container mt-5" >
   
-   
-      <fieldset>
-          <legend>Nombre</legend><input type="text" class="form-control" />
-      </fieldset>
-      <fieldset>
-          <legend>Apellido</legend><input type="text" class="form-control" />
-      </fieldset>
-      <fieldset>
-          <legend>E-mail</legend><input type="email" class="form-control" />
-      </fieldset>
-      <fieldset>
-          <legend>Deja tu Consulta</legend><textarea class="form-control"></textarea>
-      </fieldset>
-      <div class="form-check"><input type="checkbox" class="form-check-input" id="formCheck-1" /><label class="form-check-label" for="formCheck-1">Desea recibir nuestro News-Letter</label></div>
-      <div class=boton-form>
-      <button class="btn btn-danger" type="submit">Enviar </button>
-    </div>  
-  </form>
+      <div class="row" style="height:550px;">
+        <div class="col-md-6 maps" >
+           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11880.492291371422!2d12.4922309!3d41.8902102!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x28f1c82e908503c4!2sColosseo!5e0!3m2!1sit!2sit!4v1524815927977" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-6">
+          <h2 class="text-uppercase mt-3 font-weight-bold text-white">CONTATTACI</h2>
+          <form action="">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="form-group">
+                  <input type="text" class="form-control mt-2" placeholder="Nome/Società" required>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="form-group">
+                  <input type="text" class="form-control mt-2" placeholder="Oggetto" required>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="form-group">
+                  <input type="email" class="form-control mt-2" placeholder="Email" required>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="form-group">
+                  <input type="number" class="form-control mt-2" placeholder="Telefono" required>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="form-group">
+                  <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Inserisci testo" rows="3" required></textarea>
+                </div>
+              </div>
+              <div class="col-12">
+              <div class="form-group">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>
+                  <label class="form-check-label" for="invalidCheck2">
+                    Accetta le condizioni
+                  </label>
+                </div>
+              </div>
+              </div>
+              <div class="col-12">
+                <button class="btn btn-light" type="submit">Invia</button>
+              </div>
+            </div>
+          </form>
+          <div class="text-white">
+          <h2 class="text-uppercase mt-4 font-weight-bold">dove siamo</h2>
+  
+          <i class="fas fa-phone mt-3"></i> <a href="tel:+">(+39) 123456</a><br>
+          <i class="fas fa-phone mt-3"></i> <a href="tel:+">(+39) 123456</a><br>
+          <i class="fa fa-envelope mt-3"></i> <a href="">info@test.it</a><br>
+          <i class="fas fa-globe mt-3"></i> Piazza del Colosseo, 1, 00184 Roma<br>
+          <i class="fas fa-globe mt-3"></i> Piazza del Colosseo, 1, 00184 Roma<br>
+          <div class="my-4">
+            <!--Cargar fa icons del footer-->
+          <a href=""><i class="fab fa-facebook fa-3x pr-4"></i></a>
+          </div>
+          </div>
+        </div>
+  
+      </div>
   </div>
+  </div>
+  
+  
 </main>
     
 <footer>
@@ -131,6 +173,7 @@
   </div>
   </footer>
 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
 </body>
 </html>
