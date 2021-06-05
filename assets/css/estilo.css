@@ -7884,6 +7884,13 @@ h3 {
 }
 
 */
+.contacto-p {
+  font-size: 3rem;
+  margin-left: 5px;
+  text-transform: uppercase;
+  line-height: 150%;
+  font-weight: bold; }
+
 #contatti {
   background-color: #161616;
   letter-spacing: 2px; }
@@ -7892,34 +7899,49 @@ h3 {
   color: #fff;
   text-decoration: none; }
 
-@media (max-width: 575.98px) {
-  #contatti {
-    padding-bottom: 800px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 450px; } }
+/* @media (max-width: 575.98px) {
+  
+    #contatti{padding-bottom: 800px;}
+    #contatti .maps iframe{
+      width: 100%;
+      height: 450px;
+    }
+   }
+  
+  
+  @media (min-width: 576px) {
+  
+     #contatti{padding-bottom: 800px;}
+  
+     #contatti .maps iframe{
+       width: 100%;
+       height: 450px;
+     }
+   }
+  
+  @media (min-width: 768px) {
+  
+    #contatti{padding-bottom: 350px;}
+  
+    #contatti .maps iframe{
+      width: 100%;
+      height: 850px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    #contatti{padding-bottom: 200px;}
+  
+     #contatti .maps iframe{
+       width: 100%;
+       height: 700px;
+     }
+  }
+  
+  
 
-@media (min-width: 576px) {
-  #contatti {
-    padding-bottom: 800px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 450px; } }
-
-@media (min-width: 768px) {
-  #contatti {
-    padding-bottom: 350px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 850px; } }
-
-@media (min-width: 992px) {
-  #contatti {
-    padding-bottom: 200px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 700px; } }
-
+      
+  */
 .h1Style {
   font-size: 600%;
   text-align: center;

@@ -1,7 +1,14 @@
 @import "h";
 $blane-color: #161616;
 
-
+.contacto-p {
+    font-size: 3rem;
+    margin-left: 5px;
+    text-transform: uppercase;
+    line-height: 150%;
+    font-weight: bold;
+    
+}
 
 #contatti{
     background-color: #161616;
@@ -13,7 +20,7 @@ $blane-color: #161616;
   }
   
   
-  @media (max-width: 575.98px) {
+ /* @media (max-width: 575.98px) {
   
     #contatti{padding-bottom: 800px;}
     #contatti .maps iframe{
@@ -55,4 +62,4 @@ $blane-color: #161616;
   
 
       
-  
+  */
