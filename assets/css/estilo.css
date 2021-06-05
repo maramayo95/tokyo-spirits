@@ -7538,15 +7538,45 @@ h3 {
 
 */
 .background-index-1 {
+  background-image: url("../../img/background/background-index4.jpg"); }
+
+.background-index-2 {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
   background-image: url("../../img/background/background-index4.jpg");
-  background-size: cover;
   background-attachment: fixed;
   width: auto;
   height: auto; }
+
+.background-index-3 {
+  background-image: url("../../img/background/background-norteamericanas21.jpg");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  top: 100px;
+  height: 70vh;
+  width: 100vpw;
+  position: sticky; }
+
+.background-index-3:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: .7;
+  z-index: -1; }
+
+.hacemeCaso {
+  text-align: center; }
 
 .p-info {
   color: #fff;
@@ -7825,9 +7855,6 @@ h3 {
 }
 
 */
-.estiloCards {
-  margin: 40px; }
-
 .h1Style {
   font-size: 600%;
   text-align: center;
@@ -7942,6 +7969,31 @@ h3 {
 
       
   */
+.heading {
+  font-size: 20px;
+  font-weight: 600;
+  color: #3D5AFE; }
+
+.line1 {
+  color: #000;
+  font-size: 12px; }
+
+.line2 {
+  color: #000;
+  font-size: 12px; }
+
+.line3 {
+  color: #000;
+  font-size: 12px; }
+
+.cards {
+  transition: all 0.1s ease;
+  cursor: pointer; }
+
+.cards:hover {
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  transform: scale(1.1); }
+
 .h1Style {
   font-size: 600%;
   text-align: center;
