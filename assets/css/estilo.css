@@ -7512,14 +7512,9 @@ textarea.form-control-lg {
   font-size: 35px;
   text-transform: uppercase; }
 
-.h3Section {
-  color: orangered;
-  margin: 30px;
-  text-align: center;
-  justify-content: center;
-  font-size: 600%;
-  letter-spacing: 5px;
-  font-style: italic; }
+h5, .h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
 
 /*h1{
     text-align:center;
@@ -7891,14 +7886,9 @@ h3 {
   font-size: 35px;
   text-transform: uppercase; }
 
-.h3Section {
-  color: orangered;
-  margin: 30px;
-  text-align: center;
-  justify-content: center;
-  font-size: 600%;
-  letter-spacing: 5px;
-  font-style: italic; }
+h5, .h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
 
 /*h1{
     text-align:center;
@@ -7919,28 +7909,6 @@ h3 {
 }
 
 */
-.contacto-p {
-  font-family: 'Masao', sans-serif;
-  font-size: 3rem;
-  margin-left: 5px;
-  line-height: 150%;
-  font-weight: lighter; }
-
-a {
-  font-family: 'Masao', sans-serif;
-  letter-spacing: 1px; }
-
-i {
-  font-family: 'Masao', sans-serif;
-  letter-spacing: 2px; }
-
-p {
-  font-family: 'Masao', sans-serif;
-  letter-spacing: 1px;
-  margin-left: 5px;
-  line-height: 150%;
-  font-weight: lighter; }
-
 #contatti {
   background-color: #161616;
   letter-spacing: 2px; }
@@ -8033,14 +8001,9 @@ p {
   font-size: 35px;
   text-transform: uppercase; }
 
-.h3Section {
-  color: orangered;
-  margin: 30px;
-  text-align: center;
-  justify-content: center;
-  font-size: 600%;
-  letter-spacing: 5px;
-  font-style: italic; }
+h5, .h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
 
 /*h1{
     text-align:center;
@@ -8429,6 +8392,28 @@ p {
 
 a {
   text-decoration: none; }
+
+.contacto-p {
+  font-family: 'Masao', sans-serif;
+  font-size: 1.5rem;
+  margin-left: 5px;
+  line-height: 150%;
+  font-weight: lighter; }
+
+a {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 1px; }
+
+i {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 2px; }
+
+p {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 1px;
+  margin-left: 5px;
+  line-height: 150%;
+  font-weight: lighter; }
 
 .card-text {
   text-align: center;

@@ -1,7 +1,6 @@
 
 @import "../bootstrap_sass/bootstrap.scss"; 
 
-@import "font.sccs";
 
 @import "h";
 
@@ -18,8 +17,7 @@
 
 @import "footer";
 
-
-
+@import "font.scss";
 
 .card-text {
      text-align:center;
