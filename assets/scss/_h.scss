@@ -8,12 +8,13 @@ $hStyles: (
 
 @each $name , $style in $hStyles {
     .#{$name}{
+        font-family: 'Masao', sans-serif;
         font-size: $style;
         text-align:center;
         justify-content: center;
         color: rgba(255, 255, 255, 0.877);
         letter-spacing: 2px;
-        font-family: 'Masao', sans-serif;
+        
     }
 } 
 

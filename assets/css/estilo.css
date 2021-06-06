@@ -7482,28 +7482,28 @@ textarea.form-control-lg {
     display: none !important; } }
 
 .h1Style {
+  font-family: 'Masao', sans-serif;
   font-size: 400%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h2Style {
+  font-family: 'Masao', sans-serif;
   font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h3Style {
+  font-family: 'Masao', sans-serif;
   font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h3Contacto {
   text-align: center;
@@ -7861,28 +7861,28 @@ h3 {
 
 */
 .h1Style {
+  font-family: 'Masao', sans-serif;
   font-size: 400%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h2Style {
+  font-family: 'Masao', sans-serif;
   font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h3Style {
+  font-family: 'Masao', sans-serif;
   font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h3Contacto {
   text-align: center;
@@ -7920,11 +7920,26 @@ h3 {
 
 */
 .contacto-p {
+  font-family: 'Masao', sans-serif;
   font-size: 3rem;
   margin-left: 5px;
-  text-transform: uppercase;
   line-height: 150%;
-  font-weight: bold; }
+  font-weight: lighter; }
+
+a {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 1px; }
+
+i {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 2px; }
+
+p {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 1px;
+  margin-left: 5px;
+  line-height: 150%;
+  font-weight: lighter; }
 
 #contatti {
   background-color: #161616;
@@ -7988,28 +8003,28 @@ h3 {
   transform: scale(1.1); }
 
 .h1Style {
+  font-family: 'Masao', sans-serif;
   font-size: 400%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h2Style {
+  font-family: 'Masao', sans-serif;
   font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h3Style {
+  font-family: 'Masao', sans-serif;
   font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px;
-  font-family: 'Masao', sans-serif; }
+  letter-spacing: 2px; }
 
 .h3Contacto {
   text-align: center;
