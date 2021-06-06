@@ -3,6 +3,7 @@ $hStyles: (
     h1Style: 400%,
     h2Style: 200%,
     h3Style: 120%,
+    
 );
 
 @each $name , $style in $hStyles {
@@ -11,9 +12,11 @@ $hStyles: (
         text-align:center;
         justify-content: center;
         color: rgba(255, 255, 255, 0.877);
-        font-weight: bold;
+        letter-spacing: 2px;
+        font-family: 'Masao', sans-serif;
     }
 } 
+
 
 .h3Contacto {
     text-align : center;

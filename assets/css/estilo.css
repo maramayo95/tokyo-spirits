@@ -7486,21 +7486,24 @@ textarea.form-control-lg {
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h2Style {
   font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h3Style {
   font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h3Contacto {
   text-align: center;
@@ -7862,21 +7865,24 @@ h3 {
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h2Style {
   font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h3Style {
   font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h3Contacto {
   text-align: center;
@@ -7928,49 +7934,34 @@ h3 {
   color: #fff;
   text-decoration: none; }
 
-/* @media (max-width: 575.98px) {
-  
-    #contatti{padding-bottom: 800px;}
-    #contatti .maps iframe{
-      width: 100%;
-      height: 450px;
-    }
-   }
-  
-  
-  @media (min-width: 576px) {
-  
-     #contatti{padding-bottom: 800px;}
-  
-     #contatti .maps iframe{
-       width: 100%;
-       height: 450px;
-     }
-   }
-  
-  @media (min-width: 768px) {
-  
-    #contatti{padding-bottom: 350px;}
-  
-    #contatti .maps iframe{
-      width: 100%;
-      height: 850px;
-    }
-  }
-  
-  @media (min-width: 992px) {
-    #contatti{padding-bottom: 200px;}
-  
-     #contatti .maps iframe{
-       width: 100%;
-       height: 700px;
-     }
-  }
-  
-  
+@media (max-width: 575.98px) {
+  #contatti {
+    padding-bottom: 800px; }
+  #contatti .maps iframe {
+    width: 100%;
+    height: 450px; } }
 
-      
-  */
+@media (min-width: 576px) {
+  #contatti {
+    padding-bottom: 800px; }
+  #contatti .maps iframe {
+    width: 100%;
+    height: 450px; } }
+
+@media (min-width: 768px) {
+  #contatti {
+    padding-bottom: 350px; }
+  #contatti .maps iframe {
+    width: 100%;
+    height: 850px; } }
+
+@media (min-width: 992px) {
+  #contatti {
+    padding-bottom: 200px; }
+  #contatti .maps iframe {
+    width: 100%;
+    height: 700px; } }
+
 .heading {
   font-size: 20px;
   font-weight: 600;
@@ -8001,21 +7992,24 @@ h3 {
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h2Style {
   font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h3Style {
   font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
-  font-weight: bold; }
+  letter-spacing: 2px;
+  font-family: 'Masao', sans-serif; }
 
 .h3Contacto {
   text-align: center;
@@ -8075,34 +8069,6 @@ h3 {
   border-radius: 7px; }
   .container-404 .p404 {
     font-weight: bold; }
-
-@media (max-width: 575.98px) {
-  #contatti {
-    padding-bottom: 800px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 450px; } }
-
-@media (min-width: 576px) {
-  #contatti {
-    padding-bottom: 800px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 450px; } }
-
-@media (min-width: 768px) {
-  #contatti {
-    padding-bottom: 350px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 850px; } }
-
-@media (min-width: 992px) {
-  #contatti {
-    padding-bottom: 200px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 700px; } }
 
 body {
   color: #ccc; }
