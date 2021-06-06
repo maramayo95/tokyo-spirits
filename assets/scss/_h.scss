@@ -1,8 +1,8 @@
 $blane-color: #161616;
 $hStyles: (
-    h1Style: 600%,
-    h2Style: 300%,
-    h3Style: 150%,
+    h1Style: 400%,
+    h2Style: 200%,
+    h3Style: 120%,
 );
 
 @each $name , $style in $hStyles {
