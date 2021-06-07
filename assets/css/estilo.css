@@ -7505,36 +7505,10 @@ textarea.form-control-lg {
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
-.h3Contacto {
-  text-align: center;
-  margin: 20px;
-  justify-content: center;
-  font-size: 35px;
-  text-transform: uppercase; }
-
 h5, .h5 {
   font-size: 1.5rem;
   font-family: 'Masao', sans-serif; }
 
-/*h1{
-    text-align:center;
-    justify-content: center;
-    
-
-}
-
-h2 {
-    text-align:center;
-    justify-content: center;
-}
-
-
-h3 {
-    text-align: center; 
-    justify-content: center;
-}
-
-*/
 .background-index-1 {
   background-image: url("../../img/background/background-index4.jpg"); }
 
@@ -7879,36 +7853,10 @@ h3 {
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
-.h3Contacto {
-  text-align: center;
-  margin: 20px;
-  justify-content: center;
-  font-size: 35px;
-  text-transform: uppercase; }
-
 h5, .h5 {
   font-size: 1.5rem;
   font-family: 'Masao', sans-serif; }
 
-/*h1{
-    text-align:center;
-    justify-content: center;
-    
-
-}
-
-h2 {
-    text-align:center;
-    justify-content: center;
-}
-
-
-h3 {
-    text-align: center; 
-    justify-content: center;
-}
-
-*/
 #contatti {
   background-color: #161616;
   letter-spacing: 2px; }
@@ -7919,31 +7867,19 @@ h3 {
 
 @media (max-width: 575.98px) {
   #contatti {
-    padding-bottom: 800px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 450px; } }
+    padding-bottom: 200px; } }
 
 @media (min-width: 576px) {
   #contatti {
-    padding-bottom: 800px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 450px; } }
+    padding-bottom: 200px; } }
 
 @media (min-width: 768px) {
   #contatti {
-    padding-bottom: 350px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 850px; } }
+    padding-bottom: 100px; } }
 
 @media (min-width: 992px) {
   #contatti {
-    padding-bottom: 200px; }
-  #contatti .maps iframe {
-    width: 100%;
-    height: 700px; } }
+    padding-bottom: 5px; } }
 
 .heading {
   font-size: 20px;
@@ -7994,36 +7930,10 @@ h3 {
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
-.h3Contacto {
-  text-align: center;
-  margin: 20px;
-  justify-content: center;
-  font-size: 35px;
-  text-transform: uppercase; }
-
 h5, .h5 {
   font-size: 1.5rem;
   font-family: 'Masao', sans-serif; }
 
-/*h1{
-    text-align:center;
-    justify-content: center;
-    
-
-}
-
-h2 {
-    text-align:center;
-    justify-content: center;
-}
-
-
-h3 {
-    text-align: center; 
-    justify-content: center;
-}
-
-*/
 .body404 {
   margin: 0;
   padding: 0;
