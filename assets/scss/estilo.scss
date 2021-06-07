@@ -1,5 +1,5 @@
 
-@import "../assets/bootstrap_sass/bootstrap.scss"; 
+
 
 
 @import "h";
@@ -40,3 +40,15 @@ body {
   }
 
 //Estilo Seccion 1 del Index
+
+ul.dropdown-menu.show a {
+    color: white;
+    &:hover {
+        color:orangered;
+    }
+}
+
+
+ul.dropdown-menu.show {
+    background-color: #161616;
+}
