@@ -7867,11 +7867,11 @@ h5, .h5 {
 
 @media (max-width: 575.98px) {
   #contatti {
-    padding-bottom: 200px; } }
+    padding-bottom: 300px; } }
 
 @media (min-width: 576px) {
   #contatti {
-    padding-bottom: 200px; } }
+    padding-bottom: 300px; } }
 
 @media (min-width: 768px) {
   #contatti {
@@ -8305,10 +8305,11 @@ a {
 
 .contacto-p {
   font-family: 'Masao', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-left: 5px;
   line-height: 150%;
-  font-weight: lighter; }
+  font-weight: lighter;
+  text-align: center; }
 
 a {
   font-family: 'Masao', sans-serif;
@@ -8323,7 +8324,8 @@ p {
   letter-spacing: 1px;
   margin-left: 5px;
   line-height: 150%;
-  font-weight: lighter; }
+  font-weight: lighter;
+  text-align: center; }
 
 .card-text {
   text-align: center;
