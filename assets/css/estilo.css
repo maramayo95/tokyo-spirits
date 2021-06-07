@@ -7510,7 +7510,9 @@ h5, .h5 {
   font-family: 'Masao', sans-serif; }
 
 .background-index-1 {
-  background-image: url("../../img/background/background-index4.jpg"); }
+  background-color: #161616;
+  width: 100vw;
+  height: 100vh; }
 
 .background-index-2 {
   display: flex;
@@ -7520,7 +7522,9 @@ h5, .h5 {
   background-image: url("../../img/background/background-index4.jpg");
   background-attachment: fixed;
   width: auto;
-  height: auto; }
+  height: auto;
+  width: 100vw;
+  height: 100vh; }
 
 .background-index-3 {
   background-image: url("../../img/background/background-norteamericanas21.jpg");
@@ -7532,7 +7536,21 @@ h5, .h5 {
   background-position: center;
   top: 100px;
   height: 70vh;
-  width: 100vpw; }
+  width: 100vpw;
+  height: 100vh; }
+
+.background-index-4 {
+  background-image: url("../../img/banner/banner-6.jpg");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  top: 100px;
+  height: 70vh;
+  width: 100vpw;
+  height: 100vh; }
 
 /*
 .background-index-3:after {
@@ -8326,6 +8344,14 @@ p {
   line-height: 150%;
   font-weight: lighter;
   text-align: center; }
+
+.infoIndex {
+  margin: 300px; }
+
+.estiloInfo {
+  margin: 200px; }
+  .estiloInfo .pestiloInfo {
+    text-align: left; }
 
 .card-text {
   text-align: center;

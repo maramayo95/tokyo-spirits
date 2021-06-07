@@ -1,6 +1,8 @@
 
 .background-index-1 {
-    background-image: url("../../img/background/background-index4.jpg");
+    background-color: #161616;
+    width: 100vw;
+    height: 100vh;
 }
 
 .background-index-2 {
@@ -12,6 +14,8 @@
     background-attachment: fixed;
     width: auto;
     height: auto;
+    width: 100vw;
+    height: 100vh;
     
    
 }
@@ -27,12 +31,29 @@
     top:100px;
     height: 70vh;
     width: 100vpw;
+    height:100vh;
 
   
    
 }
 
 
+.background-index-4 {
+    background-image: url("../../img/banner/banner-6.jpg");
+    display:flex; 
+    flex-direction:column; 
+    justify-content:center;
+    align-items:center;
+    background-size:cover;
+    background-position:center;
+    top:100px;
+    height: 70vh;
+    width: 100vpw;
+    height:100vh;
+
+  
+   
+}
 /*
 .background-index-3:after {
     content: '';
