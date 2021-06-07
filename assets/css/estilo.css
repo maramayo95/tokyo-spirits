@@ -8342,8 +8342,14 @@ p {
   letter-spacing: 1px;
   margin-left: 5px;
   line-height: 150%;
-  font-weight: lighter;
-  text-align: center; }
+  font-weight: lighter; }
+
+.pIndex {
+  font-family: 'Masao', sans-serif;
+  letter-spacing: 1px;
+  margin-left: 5px;
+  line-height: 150%;
+  font-weight: lighter; }
 
 .infoIndex {
   margin: 300px; }
@@ -8359,3 +8365,9 @@ p {
 
 .tokio-logo {
   height: 10vh; }
+
+.background-commerce {
+  background-image: url("../../img/background/background-index4.jpg"); }
+
+body {
+  background-color: rgba(0, 0, 0, 0.911); }
