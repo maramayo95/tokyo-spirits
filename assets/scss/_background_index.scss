@@ -14,16 +14,15 @@
    
 }
 
-
+//Background - Norteamericanas
 .background-index-3 {
     background: linear-gradient(
         0deg,
-        rgba(63, 63, 62, 0.6),
-        rgba(54, 54, 53, 0.4)
+        rgba(24, 24, 24, 0.877),
+        rgba(27, 27, 27, 0.582)
       ),
-      url("https://i.pinimg.com/originals/a4/06/79/a4067917087a8a6c04206e563eba3179.jpg");
-    min-height: 50vh;
-//    background-image: url("../../img/background/background-norteamericanas21.jpg");
+      url("../../img/background/background-norteamericanas21.jpg");
+    min-height: 85vh;
     display:flex; 
     flex-direction:column; 
     justify-content:center;
@@ -35,16 +34,22 @@
    
 }
 
+//Background Deportes
 
 .background-index-4 {
-    background-image: url("../../img/banner/banner-6.jpg");
+    background: linear-gradient(
+        0deg,
+        rgba(24, 24, 24, 0.877),
+        rgba(27, 27, 27, 0.582)
+      ),
+      url("../../img/background/background-index3.jpg");
+    min-height: 85vh;
     display:flex; 
     flex-direction:column; 
     justify-content:center;
     align-items:center;
     background-size:cover;
     background-position:center;
-
   
    
 }
