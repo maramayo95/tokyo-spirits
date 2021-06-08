@@ -27,3 +27,6 @@ h5 {
 h2 {
     font-family: 'Masao', sans-serif;
 }
+h1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+}

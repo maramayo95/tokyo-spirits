@@ -29,6 +29,9 @@ h5 {
 h2 {
   font-family: 'Masao', sans-serif; }
 
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem); }
+
 .background-index-1 {
   background-color: #161616; }
 
@@ -386,6 +389,9 @@ h5 {
 h2 {
   font-family: 'Masao', sans-serif; }
 
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem); }
+
 #contatti {
   background-color: #161616;
   letter-spacing: 2px; }
@@ -465,6 +471,9 @@ h5 {
 
 h2 {
   font-family: 'Masao', sans-serif; }
+
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem); }
 
 .body404 {
   margin: 0;
