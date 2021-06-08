@@ -1,22 +1,22 @@
 .h1Style {
+  font-size: 1.5rem;
   font-family: 'Masao', sans-serif;
-  font-size: 400%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
 .h2Style {
+  font-size: 1rem;
   font-family: 'Masao', sans-serif;
-  font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
 .h3Style {
+  font-size: 0.5rem;
   font-family: 'Masao', sans-serif;
-  font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
@@ -25,14 +25,17 @@
 h1 {
   font-family: 'Masao', sans-serif; }
 
+h2 {
+  font-family: 'Masao', sans-serif; }
+
 h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
   font-family: 'Masao', sans-serif; }
 
 h5 {
   font-size: 1.5rem;
-  font-family: 'Masao', sans-serif; }
-
-h2 {
   font-family: 'Masao', sans-serif; }
 
 .background-index-1 {
@@ -315,24 +318,24 @@ h2 {
   background-image: url("../../img/banner/banner-8.jpg"); }
 
 .h1Style {
+  font-size: 1.5rem;
   font-family: 'Masao', sans-serif;
-  font-size: 400%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
 .h2Style {
+  font-size: 1rem;
   font-family: 'Masao', sans-serif;
-  font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
 .h3Style {
+  font-size: 0.5rem;
   font-family: 'Masao', sans-serif;
-  font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
@@ -341,14 +344,17 @@ h2 {
 h1 {
   font-family: 'Masao', sans-serif; }
 
+h2 {
+  font-family: 'Masao', sans-serif; }
+
 h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
   font-family: 'Masao', sans-serif; }
 
 h5 {
   font-size: 1.5rem;
-  font-family: 'Masao', sans-serif; }
-
-h2 {
   font-family: 'Masao', sans-serif; }
 
 #contatti {
@@ -376,24 +382,24 @@ h2 {
     padding-bottom: 5px; } }
 
 .h1Style {
+  font-size: 1.5rem;
   font-family: 'Masao', sans-serif;
-  font-size: 400%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
 .h2Style {
+  font-size: 1rem;
   font-family: 'Masao', sans-serif;
-  font-size: 200%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
   letter-spacing: 2px; }
 
 .h3Style {
+  font-size: 0.5rem;
   font-family: 'Masao', sans-serif;
-  font-size: 120%;
   text-align: center;
   justify-content: center;
   color: rgba(255, 255, 255, 0.877);
@@ -402,14 +408,17 @@ h2 {
 h1 {
   font-family: 'Masao', sans-serif; }
 
+h2 {
+  font-family: 'Masao', sans-serif; }
+
 h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
   font-family: 'Masao', sans-serif; }
 
 h5 {
   font-size: 1.5rem;
-  font-family: 'Masao', sans-serif; }
-
-h2 {
   font-family: 'Masao', sans-serif; }
 
 .body404 {

@@ -3,7 +3,6 @@ $blane-color: #161616;
 @mixin hstyle ($size) {
     font-size: $size;
     font-family: 'Masao', sans-serif;
-    font-size: $style;
     text-align:center;
     justify-content: center;
     color: rgba(255, 255, 255, 0.877);
@@ -11,14 +10,16 @@ $blane-color: #161616;
 }
 
 .h1Style {
-    @include hstyle(20px);
-}
-.h2Style {
-    @include hstyle(16px);
+    @include hstyle(1.5rem);
 }
 
+.h2Style {
+    @include hstyle(1rem);
+}
+
+
 .h3Style {
-    @include hstyle(8px);
+    @include hstyle(0.5rem);
 }
 
 h1 {
