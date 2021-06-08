@@ -826,7 +826,7 @@ a {
   text-decoration: none; }
 
 .contacto-p {
-  font-family: 'Masao', sans-serif;
+  font-family: sans-serif;
   font-size: 2rem;
   margin-left: 5px;
   line-height: 150%;
@@ -834,22 +834,22 @@ a {
   text-align: center; }
 
 a {
-  font-family: 'Masao', sans-serif;
+  font-family: sans-serif;
   letter-spacing: 1px; }
 
 i {
-  font-family: 'Masao', sans-serif;
+  font-family: sans-serif;
   letter-spacing: 2px; }
 
 p {
-  font-family: 'Masao', sans-serif;
+  font-family: sans-serif;
   letter-spacing: 1px;
   margin-left: 5px;
   line-height: 150%;
   font-weight: lighter; }
 
 .pIndex {
-  font-family: 'Masao', sans-serif;
+  font-family: sans-serif;
   letter-spacing: 1px;
   margin-left: 5px;
   line-height: 150%;
