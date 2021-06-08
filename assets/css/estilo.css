@@ -26,6 +26,9 @@ h5 {
   font-size: 1.5rem;
   font-family: 'Masao', sans-serif; }
 
+h2 {
+  font-family: 'Masao', sans-serif; }
+
 .background-index-1 {
   background-color: #161616; }
 
@@ -380,6 +383,9 @@ h5 {
   font-size: 1.5rem;
   font-family: 'Masao', sans-serif; }
 
+h2 {
+  font-family: 'Masao', sans-serif; }
+
 #contatti {
   background-color: #161616;
   letter-spacing: 2px; }
@@ -455,6 +461,9 @@ h5 {
 
 h5 {
   font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
+
+h2 {
   font-family: 'Masao', sans-serif; }
 
 .body404 {
@@ -858,6 +867,9 @@ p {
 
 .infoIndex {
   margin: 300px; }
+
+a.nav-link {
+  font-family: 'Masao'; }
 
 .card-text {
   text-align: center;
