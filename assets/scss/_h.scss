@@ -14,12 +14,12 @@ $blane-color: #161616;
 }
 
 .h2Style {
-    @include hstyle(1rem);
+    @include hstyle(1.2rem);
 }
 
 
 .h3Style {
-    @include hstyle(0.5rem);
+    @include hstyle(1rem);
 }
 
 h1 {
@@ -28,6 +28,7 @@ h1 {
 
 h2 {
     font-family: 'Masao', sans-serif;
+    margin: 10px;
 }
 
 
