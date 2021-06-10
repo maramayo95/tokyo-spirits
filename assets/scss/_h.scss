@@ -32,6 +32,91 @@ h2 {
 }
 
 
+// @media queries
+//Escritorio
+@media (min-width: 1199.98px)  {
+    h1 {
+      font-size: 7rem;
+      }
+    h3 {
+        font-size: 3 rem;
+    }
+    
+    .h1Style {
+        font-size: 6rem;
+    }
+    .h2Style {
+        font-size: 3rem;
+    }
+    
+    }
+  
+  //Fin Escritorio
+  
+  //Tablet
+  //Portrait
+  @media (min-width: 576px) and (max-width: 991.98px) and (orientation:portrait) {
+    .h1 {
+        font-size: 1.5rem;
+    }
+    .h3 { font-size: 1rem;
+
+    }
+    .h1Style {
+        font-size: 1.5rem;
+    } 
+    .h2Style {
+        font-size: 1.2rem;
+    }    
+    .h3Style {
+        font-size: 1rem;
+    }
+    }
+  
+  
+  //landscape
+  @media (min0-width: 991.98px) and (max-width: 1199.98px)and (orientation:landscape) {
+    .h1 {
+        font-size: 1.5rem;
+    }
+    .h3 { font-size: 1rem;
+
+    }
+    .h1Style {
+        font-size: 1.5rem;
+    } 
+    .h2Style {
+        font-size: 1.2rem;
+    }    
+    .h3Style {
+        font-size: 1rem;
+    }
+    }
+  
+  //fin tablet
+  
+  //movil
+  //Portrait
+  //Default
+  @media (max-width: 575.98px)and (orientation:portrait) {
+      h1 {
+          font-size: 1.5rem;
+        
+      }
+      h3 {
+          font-size: 1rem;
+      }
+      }
+  
+  //landscape
+  @media (min-width: 576px) and (max-width: 991.98px) and (orientation:landscape) {
+      }
+  
+  //fin movil
+  
+  
+  
+
 h3 {
     font-family: 'Masao', sans-serif;
 }
