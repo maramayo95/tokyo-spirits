@@ -1,4 +1,3 @@
-@import "h";
 
 @import "background_index";
 
@@ -12,7 +11,9 @@
 
 @import "font.scss";
 
+@import "h";
 
+@import "media";
 
 .card-text {
      text-align:center;

@@ -1,84 +1,3 @@
-.h1Style {
-  font-size: 1.5rem;
-  font-family: 'Masao', sans-serif;
-  text-align: center;
-  justify-content: center;
-  color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px; }
-
-.h2Style {
-  font-size: 1.2rem;
-  font-family: 'Masao', sans-serif;
-  text-align: center;
-  justify-content: center;
-  color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px; }
-
-.h3Style {
-  font-size: 1rem;
-  font-family: 'Masao', sans-serif;
-  text-align: center;
-  justify-content: center;
-  color: rgba(255, 255, 255, 0.877);
-  letter-spacing: 2px; }
-
-h1 {
-  font-family: 'Masao', sans-serif; }
-
-h2 {
-  font-family: 'Masao', sans-serif;
-  margin: 10px; }
-
-@media (min-width: 1199.98px) {
-  h1 {
-    font-size: 7rem; }
-  h3 {
-    font-size: 3 rem; }
-  .h1Style {
-    font-size: 7rem; }
-  .h2Style {
-    font-size: 3rem; } }
-
-@media (min-width: 576px) and (max-width: 991.98px) and (orientation: portrait) {
-  .h1 {
-    font-size: 1.5rem; }
-  .h3 {
-    font-size: 1rem; }
-  .h1Style {
-    font-size: 1.5rem; }
-  .h2Style {
-    font-size: 1.2rem; }
-  .h3Style {
-    font-size: 1rem; } }
-
-@media (min0-width: 991.98px) and (max-width: 1199.98px) and (orientation: landscape) {
-  .h1 {
-    font-size: 1.5rem; }
-  .h3 {
-    font-size: 1rem; }
-  .h1Style {
-    font-size: 1.5rem; }
-  .h2Style {
-    font-size: 1.2rem; }
-  .h3Style {
-    font-size: 1rem; } }
-
-@media (max-width: 575.98px) and (orientation: portrait) {
-  h1 {
-    font-size: 1.5rem; }
-  h2 {
-    font-size: 1rem; } }
-
-h3 {
-  font-family: 'Masao', sans-serif; }
-
-h4 {
-  font-family: 'Masao', sans-serif; }
-
-h5 {
-  font-size: 1.5rem;
-  font-family: 'Masao', sans-serif; }
-
 .background-index-1 {
   background-color: #161616; }
 
@@ -359,7 +278,6 @@ h5 {
   background-image: url("../../img/banner/banner-8.jpg"); }
 
 .h1Style {
-  font-size: 1.5rem;
   font-family: 'Masao', sans-serif;
   text-align: center;
   justify-content: center;
@@ -367,7 +285,6 @@ h5 {
   letter-spacing: 2px; }
 
 .h2Style {
-  font-size: 1.2rem;
   font-family: 'Masao', sans-serif;
   text-align: center;
   justify-content: center;
@@ -375,7 +292,6 @@ h5 {
   letter-spacing: 2px; }
 
 .h3Style {
-  font-size: 1rem;
   font-family: 'Masao', sans-serif;
   text-align: center;
   justify-content: center;
@@ -411,7 +327,7 @@ h2 {
   .h3Style {
     font-size: 1rem; } }
 
-@media (min0-width: 991.98px) and (max-width: 1199.98px) and (orientation: landscape) {
+@media (min-width: 991.98px) and (max-width: 1199.98px) and (orientation: landscape) {
   .h1 {
     font-size: 1.5rem; }
   .h3 {
@@ -427,7 +343,9 @@ h2 {
   h1 {
     font-size: 1.5rem; }
   h2 {
-    font-size: 1rem; } }
+    font-size: 1.1rem; }
+  .h3 {
+    font-size: 0.5rem; } }
 
 h3 {
   font-family: 'Masao', sans-serif; }
@@ -464,7 +382,6 @@ h5 {
     padding-bottom: 5px; } }
 
 .h1Style {
-  font-size: 1.5rem;
   font-family: 'Masao', sans-serif;
   text-align: center;
   justify-content: center;
@@ -472,7 +389,6 @@ h5 {
   letter-spacing: 2px; }
 
 .h2Style {
-  font-size: 1.2rem;
   font-family: 'Masao', sans-serif;
   text-align: center;
   justify-content: center;
@@ -480,7 +396,6 @@ h5 {
   letter-spacing: 2px; }
 
 .h3Style {
-  font-size: 1rem;
   font-family: 'Masao', sans-serif;
   text-align: center;
   justify-content: center;
@@ -516,7 +431,7 @@ h2 {
   .h3Style {
     font-size: 1rem; } }
 
-@media (min0-width: 991.98px) and (max-width: 1199.98px) and (orientation: landscape) {
+@media (min-width: 991.98px) and (max-width: 1199.98px) and (orientation: landscape) {
   .h1 {
     font-size: 1.5rem; }
   .h3 {
@@ -532,7 +447,9 @@ h2 {
   h1 {
     font-size: 1.5rem; }
   h2 {
-    font-size: 1rem; } }
+    font-size: 1.1rem; }
+  .h3 {
+    font-size: 0.5rem; } }
 
 h3 {
   font-family: 'Masao', sans-serif; }
@@ -948,6 +865,86 @@ p {
 
 a.nav-link {
   font-family: 'Masao'; }
+
+.h1Style {
+  font-family: 'Masao', sans-serif;
+  text-align: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.877);
+  letter-spacing: 2px; }
+
+.h2Style {
+  font-family: 'Masao', sans-serif;
+  text-align: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.877);
+  letter-spacing: 2px; }
+
+.h3Style {
+  font-family: 'Masao', sans-serif;
+  text-align: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.877);
+  letter-spacing: 2px; }
+
+h1 {
+  font-family: 'Masao', sans-serif; }
+
+h2 {
+  font-family: 'Masao', sans-serif;
+  margin: 10px; }
+
+@media (min-width: 1199.98px) {
+  h1 {
+    font-size: 7rem; }
+  h3 {
+    font-size: 3 rem; }
+  .h1Style {
+    font-size: 7rem; }
+  .h2Style {
+    font-size: 3rem; } }
+
+@media (min-width: 576px) and (max-width: 991.98px) and (orientation: portrait) {
+  .h1 {
+    font-size: 1.5rem; }
+  .h3 {
+    font-size: 1rem; }
+  .h1Style {
+    font-size: 1.5rem; }
+  .h2Style {
+    font-size: 1.2rem; }
+  .h3Style {
+    font-size: 1rem; } }
+
+@media (min-width: 991.98px) and (max-width: 1199.98px) and (orientation: landscape) {
+  .h1 {
+    font-size: 1.5rem; }
+  .h3 {
+    font-size: 1rem; }
+  .h1Style {
+    font-size: 1.5rem; }
+  .h2Style {
+    font-size: 1.2rem; }
+  .h3Style {
+    font-size: 1rem; } }
+
+@media (max-width: 575.98px) and (orientation: portrait) {
+  h1 {
+    font-size: 1.5rem; }
+  h2 {
+    font-size: 1.1rem; }
+  .h3 {
+    font-size: 0.5rem; } }
+
+h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
+  font-family: 'Masao', sans-serif; }
+
+h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
 
 .card-text {
   text-align: center;

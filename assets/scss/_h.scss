@@ -1,7 +1,7 @@
 $blane-color: #161616;
 
-@mixin hstyle ($size) {
-    font-size: $size;
+@mixin hstyle  {
+   
     font-family: 'Masao', sans-serif;
     text-align:center;
     justify-content: center;
@@ -10,16 +10,16 @@ $blane-color: #161616;
 }
 
 .h1Style {
-    @include hstyle(1.5rem);
+    @include hstyle;
 }
 
 .h2Style {
-    @include hstyle(1.2rem);
+    @include hstyle;
 }
 
 
 .h3Style {
-    @include hstyle(1rem);
+    @include hstyle;
 }
 
 h1 {
@@ -75,7 +75,7 @@ h2 {
   
   
   //landscape
-  @media (min0-width: 991.98px) and (max-width: 1199.98px)and (orientation:landscape) {
+  @media (min-width: 991.98px) and (max-width: 1199.98px)and (orientation:landscape) {
     .h1 {
         font-size: 1.5rem;
     }
@@ -104,9 +104,14 @@ h2 {
         
       }
       h2 {
-          font-size: 1rem;
+          font-size: 1.1rem;
       }
+      
+
+      .h3 {
+          font-size: 0.5rem;
       }
+    }
   
   //landscape
   @media (min-width: 576px) and (max-width: 991.98px) and (orientation:landscape) {
