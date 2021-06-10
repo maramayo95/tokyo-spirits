@@ -305,6 +305,16 @@ h2 {
   font-family: 'Masao', sans-serif;
   margin: 10px; }
 
+h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
+  font-family: 'Masao', sans-serif; }
+
+h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
+
 #contatti {
   background-color: #161616;
   letter-spacing: 2px; }
@@ -356,6 +366,16 @@ h1 {
 h2 {
   font-family: 'Masao', sans-serif;
   margin: 10px; }
+
+h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
+  font-family: 'Masao', sans-serif; }
+
+h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
 
 .body404 {
   margin: 0;
@@ -790,15 +810,27 @@ h2 {
   font-family: 'Masao', sans-serif;
   margin: 10px; }
 
+h3 {
+  font-family: 'Masao', sans-serif; }
+
+h4 {
+  font-family: 'Masao', sans-serif; }
+
+h5 {
+  font-size: 1.5rem;
+  font-family: 'Masao', sans-serif; }
+
 @media (min-width: 1199.98px) {
   h1 {
     font-size: 7rem; }
+  h2 {
+    font-size: 4.1rem; }
   h3 {
-    font-size: 3 rem; }
+    font-size: 4rem; }
   .h1Style {
     font-size: 7rem; }
   .h2Style {
-    font-size: 3rem; } }
+    font-size: 5rem; } }
 
 @media (min-width: 576px) and (max-width: 991.98px) and (orientation: portrait) {
   .h1 {
@@ -828,19 +860,9 @@ h2 {
   h1 {
     font-size: 1.5rem; }
   h2 {
-    font-size: 1.1rem; }
-  .h3 {
-    font-size: 0.5rem; } }
-
-h3 {
-  font-family: 'Masao', sans-serif; }
-
-h4 {
-  font-family: 'Masao', sans-serif; }
-
-h5 {
-  font-size: 1.5rem;
-  font-family: 'Masao', sans-serif; }
+    font-size: 1rem; }
+  h3 {
+    font-size: 1rem; } }
 
 .card-text {
   text-align: center;
