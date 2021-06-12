@@ -1,14 +1,27 @@
+/*CONTACTO*/
 .contacto-p {
       font-family: sans-serif;  
       font-size: 2rem;
       margin-left: 5px;
       line-height: 150%;
       font-weight: lighter;
-       text-align:left;
+       text-align:center;
       
       
+
   }
-  
+  .contacto-p2 {
+    font-family: sans-serif;
+    text-align:center;
+
+  }
+
+  .ul-contacto-datos {
+    list-style: none;
+    text-align: center;
+
+  }
+
   a {
     
     font-family: sans-serif;
@@ -20,15 +33,7 @@
     letter-spacing: 2px;
   }
   
-  p {
-    font-family: sans-serif;  
-      letter-spacing: 1px;
-      margin-left: 5px;
-      line-height: 150%;
-      font-weight: lighter;
-      
-    
-  }
+ /*INDEX*/
   .pIndex {
     font-family: sans-serif;  
       letter-spacing: 1px;
