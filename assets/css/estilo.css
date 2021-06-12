@@ -325,7 +325,7 @@ h5 {
 
 @media (max-width: 575.98px) {
   #contatti {
-    padding-bottom: 5px; } }
+    padding-bottom: 30px; } }
 
 @media (min-width: 576px) {
   #contatti {
@@ -834,7 +834,7 @@ h5 {
   .h1Style {
     font-size: 7rem; }
   .h2Style {
-    font-size: 5rem; } }
+    font-size: 2rem; } }
 
 @media (min-width: 576px) and (max-width: 991.98px) and (orientation: portrait) {
   h1 {
@@ -844,9 +844,9 @@ h5 {
   h3 {
     font-size: 2rem; }
   .h1Style {
-    font-size: 1.5rem; }
+    font-size: 3rem; }
   .h2Style {
-    font-size: 1.2rem; }
+    font-size: 1.5rem; }
   .h3Style {
     font-size: 1rem; } }
 
