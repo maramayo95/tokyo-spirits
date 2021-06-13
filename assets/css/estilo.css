@@ -821,7 +821,7 @@ h4 {
 h5 {
   font-family: 'Masao', sans-serif; }
 
-@media (max-width: 280px) {
+@media (max-width: 280px) and (max-width: 319px) {
   h1 {
     font-size: 20px; }
   h2 {
@@ -867,13 +867,11 @@ h5 {
   .pIndex {
     font-size: 1.4rem; }
   .nav-link {
-    font-size: 1.5rem; } }
-
-.a {
-  font-size: 1.5rem; }
-
-a.dropdown-item {
-  font-size: 16px; }
+    font-size: 1.5rem; }
+  .a {
+    font-size: 1.5rem; }
+  a.dropdown-item {
+    font-size: 16px; } }
 
 @media (min-width: 1200px) and (max-width: 1920px) {
   h1 {
@@ -896,7 +894,7 @@ body {
   height: 10vh; }
 
 ul.dropdown-menu.show a {
-  color: white; }
+  color: #fff; }
   ul.dropdown-menu.show a:hover {
     color: orangered; }
 
@@ -920,3 +918,5 @@ ul.dropdown-menu.show {
 
 a {
   color: #fff; }
+  a:hover {
+    color: orangered; }

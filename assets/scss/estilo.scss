@@ -37,7 +37,7 @@ body {
 //Estilo Seccion 1 del Index
 
 ul.dropdown-menu.show a {
-    color: white;
+    color: #fff;
     &:hover {
         color:orangered;
     }
@@ -69,5 +69,8 @@ ul.dropdown-menu.show {
 
 
 a {
-    color: #fff ;
+    color: #fff;
+    &:hover {
+        color:orangered;
+    }
 }

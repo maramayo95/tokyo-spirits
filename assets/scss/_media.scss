@@ -1,5 +1,5 @@
 // Extra small devices (portrait phones, less than 576px)
-@media (max-width: 280px) {
+@media (max-width: 280px) and (max-width:319px) {
     h1 {
         font-size: 20px;
     }
@@ -41,7 +41,11 @@
     h3 {
         font-size: 15px;
     }
- }
+ 
+  
+
+
+}
 
 
 // Small devices (landscape phones, less than 768px)
@@ -86,7 +90,7 @@
     .nav-link {
         font-size: 1.5rem;
     }
- }
+ 
 
    .a {
        font-size: 1.5rem;
@@ -94,6 +98,7 @@
 
    a.dropdown-item {
     font-size: 16px;
+}
 }
 
 @media (min-width:1200px) and (max-width:1920px) {
