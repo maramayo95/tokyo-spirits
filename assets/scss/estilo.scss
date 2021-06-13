@@ -30,23 +30,9 @@ body {
     height: 10vh;
 }
 
-
-
-
-
 //Estilo Seccion 1 del Index
 
-ul.dropdown-menu.show a {
-    color: #fff;
-    &:hover {
-        color:orangered;
-    }
-}
-
-
-ul.dropdown-menu.show {
-    background-color: #161616;
-}
+/*Navbar */
 
 .carousel-item {
     position:relative;
@@ -67,6 +53,20 @@ ul.dropdown-menu.show {
     z-index: 15;
 }
 
+ul.dropdown-menu.show a {
+    color: #fff;
+    &:hover {
+        color:orangered;
+    }
+}
+
+ul.dropdown-menu.show {
+    background-color: #161616;
+}
+
+
+
+/* Enlaces Footer */
 
 a {
     color: #fff;

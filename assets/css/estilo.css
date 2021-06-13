@@ -784,6 +784,9 @@ i {
 a.nav-link {
   font-family: 'Masao'; }
 
+.p {
+  font-weight: 600; }
+
 .h1Style {
   font-family: 'Masao', sans-serif;
   text-align: center;
@@ -893,14 +896,7 @@ body {
 .tokio-logo {
   height: 10vh; }
 
-ul.dropdown-menu.show a {
-  color: #fff; }
-  ul.dropdown-menu.show a:hover {
-    color: orangered; }
-
-ul.dropdown-menu.show {
-  background-color: #161616; }
-
+/*Navbar */
 .carousel-item {
   position: relative; }
   .carousel-item .overlay {
@@ -916,6 +912,15 @@ ul.dropdown-menu.show {
 .carousel-control-prev, .carousel-control-next {
   z-index: 15; }
 
+ul.dropdown-menu.show a {
+  color: #fff; }
+  ul.dropdown-menu.show a:hover {
+    color: orangered; }
+
+ul.dropdown-menu.show {
+  background-color: #161616; }
+
+/* Enlaces Footer */
 a {
   color: #fff; }
   a:hover {
