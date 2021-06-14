@@ -1,18 +1,11 @@
 
+//Background Informacion Seccion 1 
+/*Background Infor Seccion 1*/
 .background-index-1 {
     background-color: #161616;
 }
 
-.background-index-2 {
-    display:flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    background-image: url("../../img/background/background-index4.jpg");
-    background-attachment: fixed;
-    
-   
-}
+
 
 //Background - Norteamericanas
 .background-index-3 {
@@ -35,7 +28,7 @@
 }
 
 //Background Deportes
-
+/* Background Deportes*/
 .background-index-4 {
     background: linear-gradient(
         0deg,
@@ -55,13 +48,3 @@
 }
 
 
-.p-info {
-    color: #fff;
-
-    text-align: center;
-    margin: 100%  0% 100% 50% ;
-}
-
-.info-imagen {
-    width: 20%;
-}
