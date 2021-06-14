@@ -844,9 +844,13 @@ h5 {
   h1 {
     font-size: 1.5rem; }
   h2 {
-    font-size: 1rem; }
+    font-size: 1.2rem; }
   h3 {
     font-size: 15px; }
+  p.pIndex {
+    font-size: 18px; }
+  h3.h3Style {
+    font-size: 1.3rem; }
   /*Botones del carrousel*/
   button.btn.btn-danger {
     font-size: 18px; } }
@@ -855,7 +859,8 @@ h5 {
   h1 {
     font-size: 4rem; }
   h2 {
-    font-size: 2.1rem; }
+    font-size: 2.1rem;
+    margin-top: 20px; }
   h3 {
     font-size: 2rem; }
   button.btn.btn-danger {
@@ -865,7 +870,8 @@ h5 {
   .pIndex {
     font-size: 1.5rem; }
   a.btn.btn-danger {
-    font-size: 1.5rem; }
+    font-size: 1.5rem;
+    margin-bottom: 20px; }
   a {
     font-size: 1.5rem; } }
 
@@ -876,6 +882,8 @@ h5 {
     font-size: 2.5rem; }
   h3 {
     font-size: 2.4rem; }
+  h3.h3Style {
+    font-size: 2rem; }
   a.nav-link {
     font-size: 1.5rem; }
   button.btn.btn-danger {
@@ -883,7 +891,7 @@ h5 {
   a.btn.btn-danger {
     font-size: 1.5rem; }
   .pIndex {
-    font-size: 1.4rem; }
+    font-size: 1.9rem; }
   .a {
     font-size: 1.5rem; }
   a.dropdown-item {
