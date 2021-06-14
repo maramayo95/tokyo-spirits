@@ -10,11 +10,6 @@
     h3 {
         font-size: 12px;
     }
-    
-    .btn-danger {
-        font-size: 10px;
-    }
-
 
 }
 
@@ -41,10 +36,11 @@
     h3 {
         font-size: 15px;
     }
- 
-  
 
-
+/*Botones del carrousel*/
+button.btn.btn-danger {
+    font-size: 18px;
+}
 }
 
 
@@ -58,48 +54,71 @@
 // Medium devices (tablets, less than 992px)
 @media (min-width:768px) and (max-width: 991.98px) {
     h1 {
-        font-size: 3rem;
-    }
-    h2 {
-        font-size: 2rem;
-    }
-    h3 {
-        font-size: 1.5rem;
-    }
+        font-size: 4rem;
+        }
+        h2 {
+        font-size:2.1rem;
+        }
+        h3 {
+        font-size:2rem;
+        }
+        button.btn.btn-danger {
+            font-size: 1.8rem;
+        }
+        a.nav-link {
+            font-size: 1.4rem;
+        }
+        
+        
 
     .pIndex {
-        font-size:  1.2em;
+        font-size:  1.5rem;
+    }
+    a.btn.btn-danger {
+        font-size: 1.5rem;
+    }
+    a {
+        font-size: 1.5rem;
     }
  }
 
 // Large devices (desktops, less than 1200px)
 @media (min-width:992px) and (max-width: 1199.98px) {
     h1 {
-        font-size: 3rem;
+        font-size: 4rem;
     }
+    
     h2 {
-        font-size: 2rem;
+     font-size: 2.5rem;
     }
+    
     h3 {
+    font-size: 2.4rem;
+    }
+    
+    a.nav-link {
         font-size: 1.5rem;
     }
+    
+    button.btn.btn-danger {
+        font-size: 2rem;
+    }
+    a.btn.btn-danger {
+        font-size: 1.5rem;
+    }
+
     .pIndex {
         font-size:  1.4rem;
     }
 
-    .nav-link {
-        font-size: 1.5rem;
-    }
- 
-
-   .a {
+    .a {
        font-size: 1.5rem;
    }
 
    a.dropdown-item {
     font-size: 16px;
-}
-}
+    }
+    }
 
 @media (min-width:1200px) and (max-width:1920px) {
     h1 {

@@ -830,9 +830,7 @@ h5 {
   h2 {
     font-size: 15px; }
   h3 {
-    font-size: 12px; }
-  .btn-danger {
-    font-size: 10px; } }
+    font-size: 12px; } }
 
 @media (min-width: 320px) {
   h1 {
@@ -848,29 +846,44 @@ h5 {
   h2 {
     font-size: 1rem; }
   h3 {
-    font-size: 15px; } }
+    font-size: 15px; }
+  /*Botones del carrousel*/
+  button.btn.btn-danger {
+    font-size: 18px; } }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
   h1 {
-    font-size: 3rem; }
+    font-size: 4rem; }
   h2 {
-    font-size: 2rem; }
+    font-size: 2.1rem; }
   h3 {
-    font-size: 1.5rem; }
+    font-size: 2rem; }
+  button.btn.btn-danger {
+    font-size: 1.8rem; }
+  a.nav-link {
+    font-size: 1.4rem; }
   .pIndex {
-    font-size: 1.2em; } }
+    font-size: 1.5rem; }
+  a.btn.btn-danger {
+    font-size: 1.5rem; }
+  a {
+    font-size: 1.5rem; } }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
   h1 {
-    font-size: 3rem; }
+    font-size: 4rem; }
   h2 {
-    font-size: 2rem; }
+    font-size: 2.5rem; }
   h3 {
+    font-size: 2.4rem; }
+  a.nav-link {
+    font-size: 1.5rem; }
+  button.btn.btn-danger {
+    font-size: 2rem; }
+  a.btn.btn-danger {
     font-size: 1.5rem; }
   .pIndex {
     font-size: 1.4rem; }
-  .nav-link {
-    font-size: 1.5rem; }
   .a {
     font-size: 1.5rem; }
   a.dropdown-item {
@@ -920,6 +933,7 @@ ul.dropdown-menu.show a {
 ul.dropdown-menu.show {
   background-color: #161616; }
 
+/*Botones*/
 /* Enlaces Footer */
 a {
   color: #fff; }
