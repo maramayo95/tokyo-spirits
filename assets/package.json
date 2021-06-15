@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-css": "node-sass --include-path scss scss/estilo.scss css/estilo.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
+    "build-bs": "node-sass --include-path scss bootstrap_sass/bootstrap.scss css/bootstrap.css",
+    "watch-bs": "nodemon -e scss -x \"npm run build-bs\""
+
   },
   "author": "",
   "license": "ISC",
