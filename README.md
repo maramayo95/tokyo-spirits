@@ -2,7 +2,7 @@
 Este es mi primer proyecto donde desarrollé una pagina web para el curso de Desarrollo Web que he cursado en CoderHouse,Argentina.
 El estilo de la pagina es un E-Commerce orientada a un publico amante del anime que comprende de una pagina de inicio junto a otras 8 secciones.
 Las tecnologías que utilicé fueron:
--Html 5
+<ul> <li>Html 5</li></ul>
 -Css 3
 -Sass
 -Bootstrap 5.0.1 (Javascript)
